@@ -1,0 +1,2 @@
+You can check email delivery status by using the Email Activity page, or by using the Event Webhook. For a successful delivery, the Email Activity page, or the Event Webhook shows a delivered event - expanding it shows a reason code of 250 OK.
+This means the receiving server has accepted the message.16-Jun-2015
